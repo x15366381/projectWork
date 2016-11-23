@@ -1,0 +1,182 @@
+<store>
+  <shoe>
+    <brand>Nike</brand>
+    <name>Nike Air Max 2017</name>
+    <price>170</price>
+    <type>trainer</type>
+    <colour>black</colour>
+    <gender id="m">male</gender>
+    <minSize>7</minSize>
+    <maxSize>12</maxSize>
+  </shoe>
+  <shoe>
+    <brand>Nike</brand>
+    <name>Nike Air presto </name>
+    <price>110</price>
+    <type>trainer</type>
+    <colour>white</colour>
+    <gender id="m">male</gender>
+    <minSize>7</minSize>
+    <maxSize>12</maxSize>
+  </shoe>
+  <shoe>
+    <brand>Nike</brand>
+    <name>nike hurarache</name>
+    <price>90</price>
+    <type>trainer</type>
+    <colour>gray</colour>
+    <gender id="f">female</gender>
+    <minSize>4</minSize>
+    <maxSize>10</maxSize>
+  </shoe>
+  <shoe>
+    <brand>adidas</brand>
+    <name>adidas Yezzy boost 350</name>
+    <price>350</price>
+    <type>trainer</type>
+    <colour>black</colour>
+    <gender id="m">male</gender>
+    <minSize>7</minSize>
+    <maxSize>12</maxSize>
+  </shoe>
+  <shoe>
+    <brand>adidas</brand>
+    <name>adidas Gazelle</name>
+    <price>70</price>
+    <type>casual</type>
+    <colour>red</colour>
+    <gender id="m"></gender>
+    <minSize>7</minSize>
+    <maxSize>12</maxSize>
+  </shoe>
+  <shoe>
+    <brand>Puma</brand>
+    <name>Puma Kings</name>
+    <price>90</price>
+    <type>football boot</type>
+    <colour>black</colour>
+    <gender id ="m">male</gender>
+    <minSize>7</minSize>
+    <maxSize>12</maxSize>
+  </shoe>
+  <shoe>
+    <brand>New balance</brand>
+    <name>420</name>
+    <price>80</price>
+    <type>trainer</type>
+    <colour>navy</colour>
+    <gender id = "m">male</gender>
+    <minSize>7</minSize>
+    <maxSize>12</maxSize>
+  </shoe>
+  <shoe>
+    <brand>H by Hudson</brand>
+    <name>black mint brogues </name>
+    <price>65</price>
+    <type>brogue</type>
+    <colour>black</colour>
+    <gender id = "m">male</gender>
+    <minSize>7</minSize>
+    <maxSize>12</maxSize>
+  </shoe>
+  <shoe>
+    <brand>Adidas</brand>
+    <name>superstars</name>
+    <price>99</price>
+    <type>trainer</type>
+    <colour>white</colour>
+    <gender id = "f">female</gender>
+    <minSize>4</minSize>
+    <maxSize>10</maxSize>
+  </shoe>
+  <shoe>
+    <brand>converse</brand>
+    <name>All Stars oxford</name>
+    <price>50</price>
+    <type>casual</type>
+    <colour>white</colour>
+    <gender id = "f">female</gender>
+    <minSize>4</minSize>
+    <maxSize>10</maxSize>
+  </shoe>
+  <shoe>
+    <brand>louis </brand>
+    <name></name>
+    <price></price>
+    <type></type>
+    <colour></colour>
+    <gender></gender>
+    <minSize>7</minSize>
+    <maxSize>12</maxSize>
+  </shoe>
+  <shoe>
+    <brand></brand>
+    <name></name>
+    <price></price>
+    <type></type>
+    <colour></colour>
+    <gender></gender>
+    <minSize>7</minSize>
+    <maxSize>12</maxSize>
+  </shoe>
+  <shoe>
+    <brand></brand>
+    <name></name>
+    <price></price>
+    <type></type>
+    <colour></colour>
+    <gender></gender>
+    <minSize>7</minSize>
+    <maxSize>12</maxSize>
+  </shoe>
+  <shoe>
+    <brand></brand>
+    <name></name>
+    <price></price>
+    <type></type>
+    <colour></colour>
+    <gender></gender>
+    <minSize>7</minSize>
+    <maxSize>12</maxSize>
+  </shoe>
+  <shoe>
+    <brand></brand>
+    <name></name>
+    <price></price>
+    <type></type>
+    <colour></colour>
+    <gender></gender>
+    <minSize>7</minSize>
+    <maxSize>12</maxSize>
+  </shoe>
+  <shoe>
+    <brand></brand>
+    <name></name>
+    <price></price>
+    <type></type>
+    <colour></colour>
+    <gender></gender>
+    <minSize>7</minSize>
+    <maxSize>12</maxSize>
+  </shoe>
+  <shoe>
+    <brand></brand>
+    <name></name>
+    <price></price>
+    <type></type>
+    <colour></colour>
+    <gender></gender>
+    <minSize>7</minSize>
+    <maxSize>12</maxSize>
+  </shoe>
+  <shoe>
+    <brand></brand>
+    <name></name>
+    <price></price>
+    <type></type>
+    <colour></colour>
+    <gender></gender>
+    <minSize>7</minSize>
+    <maxSize>12</maxSize>
+  </shoe>
+</store>
